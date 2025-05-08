@@ -11,4 +11,7 @@
 		//
 		"args": "",
 	},
+	"files.associations": {
+		"adtpriorityqueue.h": "c"
+	},
 }
